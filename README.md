@@ -80,7 +80,6 @@ I care about:
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
 </td>
 </tr>
