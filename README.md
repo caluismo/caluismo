@@ -1,185 +1,125 @@
-<h1 align="center">Hi 👋, I'm Luis Montes</h1>
-<h3 align="center">Software Engineer | CS @ Colgate University</h3>
+<!-- 
+  Personal GitHub README
+  Goal: Keep it clean, recruiter-friendly, and focused on infra + AI systems.
+  Not trying to overdo animations — just subtle polish.
+-->
 
-<!-- About -->
-<p align="center">
-  I'm focused on building scalable, reliable systems — from backend services and distributed infrastructure to AI-powered automation. 
-  With hands-on experience in software engineering, data systems, and performance optimization, 
-  I enjoy designing solutions that improve efficiency, reliability, and user impact.
-</p>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  🛠 <b>Currently Focused On:</b><br/>
-  • Cloud Infrastructure (AWS, Kubernetes, Jenkins)<br/>
-  • AI Model Deployment (FastAPI, Triton, LangChain)<br/>
-  • Distributed Systems & Edge Computing<br/><br/>
-  💡 <b>Have an interesting project or idea? Let's collaborate!</b>
-</p>
+# Luis Montes  
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=caluismo&theme=dark&hide_border=false"
-    height="165"
-    alt="Top languages"
-  />
-</p>
+<!-- Typing animation just to add some personality without being flashy -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Building+scalable+systems+and+AI-powered+infrastructure.;Distributed+systems.+Cloud.+Developer+tools.;Always+learning.+Always+building."
+/>
 
+</div>
 
-<p align="left">
+---
 
-  <!-- ======================= -->
-  <!--        Languages        -->
-  <!-- ======================= -->
+# 👨‍💻 About Me
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a>
+Software Engineer | CS @ Colgate University  
 
-  <!-- ======================= -->
-  <!--      Web / Frontend    -->
-  <!-- ======================= -->
+I build scalable, reliable systems — from backend services and distributed infrastructure to AI-powered automation.  
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="SASS"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" width="40" height="40" alt="Babel"/>
-  </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="40" height="40" alt="Webpack"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  </a>
+With hands-on experience in cloud platforms, data systems, and performance optimization, I focus on clean architecture, system design, and developer productivity.
 
-  <!-- ======================= -->
-  <!--   Backend Frameworks   -->
-  <!-- ======================= -->
+<!-- Core engineering values -->
+I care about:
+- Writing production-ready code  
+- Designing scalable architectures  
+- Shipping fast without sacrificing quality  
+- Continuous learning and iteration  
 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  </a>
+---
 
-  <!-- ======================= -->
-  <!--        Databases       -->
-  <!-- ======================= -->
+## 🛠 Currently Focused On
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  </a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" width="40" height="40" alt="Amazon DynamoDB"/>
-  </a>
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="40" height="40" alt="Apache Cassandra"/>
-  </a>
-  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="40" height="40" alt="Neo4j"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/>
-  </a>
-  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" alt="Kafka"/>
-  </a>
+<!-- Keep updated. -->
+• Cloud Infrastructure (AWS, Kubernetes, Docker, Jenkins)  
+• AI Model Deployment (FastAPI, LangChain, vector databases)  
+• Distributed Systems & Backend Scalability  
+• Performance Optimization & System Design  
 
-  <!-- ======================= -->
-  <!--     Cloud / DevOps     -->
-  <!-- ======================= -->
+---
 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  </a>
+## 🧰 Tech Stack
 
-  <!-- ======================= -->
-  <!-- CI / Version Control   -->
-  <!-- ======================= -->
+<!-- Organized intentionally by layer (language → backend → infra) -->
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
-  </a>
+<table>
 
-  <!-- ======================= -->
-  <!--        AI / Data       -->
-  <!-- ======================= -->
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+<!-- Core languages I actually use, not just "familiar with" -->
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white" />
+</td>
+</tr>
 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  </a>
+<tr>
+<td><strong>Backend & Data</strong></td>
+<td>
+<!-- Backend frameworks + databases -->
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
+</td>
+</tr>
 
-  <!-- ======================= -->
-  <!--        Misc Tools      -->
-  <!-- ======================= -->
+<tr>
+<td><strong>Cloud & DevOps</strong></td>
+<td>
+<!-- Infra + deployment -->
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" />
+</td>
+</tr>
 
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi"/>
-  </a>
+<tr>
+<td><strong>Data & AI</strong></td>
+<td>
+<!-- ML + data tooling + LLM systems -->
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white" />
+</td>
+</tr>
 
-</p>
+</table>
+
+---
+
+## 🔗 Connect
+
+<!-- Update link if needed -->
+<a href="https://www.linkedin.com/in/luiscarlosmontes/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Keep closing simple. No fluff. -->
