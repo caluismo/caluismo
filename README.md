@@ -165,9 +165,6 @@
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
   </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/>
-  </a>
 
   <!-- ======================= -->
   <!--        AI / Data       -->
@@ -186,15 +183,6 @@
 
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="40" height="40" alt="LaTeX"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
-  </a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="40" height="40" alt="Notion"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
   </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi"/>
